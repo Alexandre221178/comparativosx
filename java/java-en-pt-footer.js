@@ -45,7 +45,7 @@ document.addEventListener("DOMContentLoaded", function() {
     // Seleciona o elemento do footer onde a mensagem será adicionada
     var footerMessage = document.getElementById("message");
     // Cria um novo nó de texto contendo a mensagem desejada
-    var messageText = document.createTextNode("©2024 Alexandre Games Blog");
+    var messageText = document.createTextNode("©2024 Comparativos X");
     // Adiciona o nó de texto ao elemento do footer
     footerMessage.appendChild(messageText);
 });
