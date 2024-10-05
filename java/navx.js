@@ -1,19 +1,19 @@
 document.addEventListener('DOMContentLoaded', () => {
     const navHTML = `
         <div class="logo">
-            <a href="https://alexandregames.com/index-pt.html"><img src="../imagens/comparativox-img/comparativosx-logo.webp" alt="Logo Blog Comparativo X" title="Logo Blog Comparativo X"></a>
+            <a href="https://alexandre221178.github.io/comparativosx/"><img src="https://alexandre221178.github.io/comparativosx/imagens/comparativox-img/comparativosx-logo.webp" alt="Logo Blog Comparativo X" title="Logo Blog Comparativo X"></a>
         </div>                     
         <ul>                     
             <div class="dropdown">
-                <button class="dropbtn"><a href="https://alexandregames.com/HeroWars.html">Eletrodomésticos</a></button>
+                <button class="dropbtn"><a href="https://alexandre221178.github.io/comparativosx/">Eletrodomésticos</a></button>
                
             </div>              
             <div class="dropdown">
-                <button class="dropbtn"><a href="https://alexandregames.com/MobileLegends.html">Tecnologia</a></button>
+                <button class="dropbtn"><a href="https://alexandre221178.github.io/comparativosx/">Tecnologia</a></button>
                 
             </div> 
             <div class="dropdown">
-                <button class="dropbtn"><a href="https://alexandregames.com/roblox-br.html">Infantil</a></button>
+                <button class="dropbtn"><a href="https://alexandre221178.github.io/comparativosx/">Infantil</a></button>
                 
             </div> 
              
@@ -21,10 +21,10 @@ document.addEventListener('DOMContentLoaded', () => {
                 <button class="dropbtn">Mais</button>
                 <div class="dropdown-content">
                     
-                    <a href="https://alexandregames.com/Documentos/Contato.html">Contato</a>
+                    <a href="https://alexandre221178.github.io/comparativosx/documentos/contato-comparativosx.html">Contato</a>
                     <a href="https://alexandregames.com/Documentos/aviso-legal.html">Isenção de Responsabilidade</a>
                     <a href="https://alexandregames.com/Documentos/Pol%C3%ADtica%20de%20privacidade.html">Política de Privacidade</a>
-                    <a href="https://alexandregames.com/Documentos/Sobre.html">Sobre Nós</a>
+                    <a href="https://alexandre221178.github.io/comparativosx/documentos/sobre-nos-comparativosx.html">Sobre Nós</a>
                     <a href="https://alexandregames.com/Documentos/Termos%20de%20uso.html">Termos de Uso</a>
                 </div>
             </div>
