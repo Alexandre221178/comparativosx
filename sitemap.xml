@@ -9,22 +9,103 @@
 
 <url>
   <loc>https://comparativosx.com.br</loc>
-  <lastmod>2024-09-29T16:08-03:00</lastmod>
+  <lastmod>2024-10-05T07:50-03:00</lastmod>
   <priority>1.00</priority>
 </url>
 
 
-<!-- fim Mobile Legens heroes Alexandre Games -->
+<!-- inicio eletrodomestico-sitemap comparativos x 
+
+<url>
+  <loc>######### link #################</loc>
+  <lastmod>#### data ############</lastmod>
+  <priority>0.80</priority>
+</url>
+
+-->
 
 
-<!-- inicio Mobile Legens articles Alexandre Games -->
+<url>
+  <loc>https://comparativosx.com.br/eletrodomestico/chapinha-de-cabelo.html</loc>
+  <lastmod>2024-10-05T07:50-03:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://comparativosx.com.br/eletrodomestico/secadores-de-cabelo.html</loc>
+  <lastmod>2024-10-05T07:50-03:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+<url>
+  <loc>https://comparativosx.com.br/eletrodomestico/top-ar-condicionado-custo-beneficio.html</loc>
+  <lastmod>2024-10-05T07:50-03:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+<!--- *************** fim eletrodomestico comparativos x  *************-->
 
 
-<!-- fim Mobile Legens articles Alexandre Games -->
+<!-- inicio eletronicos-sitemap comparativos x 
+
+<url>
+  <loc>######### link #################</loc>
+  <lastmod>#### data ############</lastmod>
+  <priority>0.80</priority>
+</url>
+
+-->
+
+<url>
+  <loc>https://comparativosx.com.br/eletronicos/celulares-baratos-snapdragon.html</loc>
+  <lastmod>2024-10-05T07:50-03:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+<!-- *********** fim eletronicos-sitemap comparativos x  ******************* -->
 
 
 
-<!-- Hero Wars Guia de Herois Alexandre Games -->
+<!-- inicio infantil-sitemap comparativos x
 
+<url>
+  <loc>######### link #################</loc>
+  <lastmod>#### data ############</lastmod>
+  <priority>0.80</priority>
+</url>
+
+-->
+
+<url>
+  <loc>https://comparativosx.com.br/infantil/melhores-tablets-infantis-2024.html</loc>
+  <lastmod>2024-10-05T07:50-03:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+<url>
+  <loc>https://comparativosx.com.br/infantil/babas-eletronicas-2024.html</loc>
+  <lastmod>2024-10-05T07:50-03:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+<!-- ************ fim  infantil comparativos x ********** -->
+
+
+
+<!-- inicio documentos-sitemap comparativos x -->
+<url>
+  <loc>https://comparativox.com.br/documentos/contato-comparativosx.html</loc>
+  <lastmod>2024-10-05T07:50-03:00</lastmod>
+  <priority>0.30</priority>
+</url>
+<url>
+  <loc>https://comparativox.com.br/documentos/sobre-nos-comparativosx.html</loc>
+  <lastmod>2024-10-05T07:50-03:00</lastmod>
+  <priority>0.30</priority>
+</url>
+
+<!-- ************ fim documentos comparativos x ************** -->
 
 </urlset>
