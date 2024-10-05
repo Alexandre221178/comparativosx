@@ -1900,6 +1900,7 @@ iframe{
 .btn {
     padding: 8px 20px;
     margin: 0 5px;
+    margin-bottom: 10px;
     border: none;
     border-radius: 5px;
     cursor: pointer;
