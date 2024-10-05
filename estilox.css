@@ -1093,6 +1093,7 @@ table {
 
 .btn-amazon {
     display: inline-block;
+    margin-left: 30px;
     padding: 12px 24px;
     background-color: #FF9900; /* Cor característica da Amazon */
     color: white;
