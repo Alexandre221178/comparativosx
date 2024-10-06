@@ -1,0 +1,9 @@
+#robot.txt_comparativosx
+
+User-Agent: *
+Allow: /
+
+User-agent: Googlebot
+Allow: /ads.txt
+
+Sitemap: https://compartivosx.com.br/sitemap.xml
