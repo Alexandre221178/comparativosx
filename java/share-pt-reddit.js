@@ -1,11 +1,10 @@
 // Função para pegar a URL de compartilhamento
 function getShareableUrl() {
     const ogUrl = document.querySelector('meta[property="og:url"]')?.content;
-    const canonicalUrl = document.querySelector('link[rel="canonical"]')?.href;
     const currentUrl = window.location.href;
 
-    // Retorna a `og:url` se estiver presente, senão `canonical`, ou então a URL atual.
-    return ogUrl || canonicalUrl || currentUrl;
+    // Retorna a `og:url` se estiver presente, senão a URL atual.
+    return ogUrl || currentUrl;
 }
 
 document.addEventListener('DOMContentLoaded', () => {
