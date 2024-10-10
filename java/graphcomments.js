@@ -20,7 +20,7 @@ function loadComments() {
 }
 
 var __semio__params = {
-  graphcommentId: "Alexandre-Games-Blog", // make sure the id is yours
+  graphcommentId: "Comparativos-X", // make sure the id is yours
   behaviour: {
     // HIGHLY RECOMMENDED
     //  uid: "...", // uniq identifer for the comments thread on your page (ex: your page id)
