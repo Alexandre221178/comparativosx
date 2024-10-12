@@ -1,19 +1,19 @@
 document.addEventListener('DOMContentLoaded', () => {
     const navHTML = `
         <div class="logo">
-            <a href="https://alexandre221178.github.io/comparativosx/"><img src="https://alexandre221178.github.io/comparativosx/imagens/comparativox-img/comparativosx-logo.webp" alt="Logo Blog Comparativo X" title="Logo Blog Comparativo X"></a>
+            <a href="https://comparativosx.com.br"><img src="https://comparativosx.com.br/imagens/comparativox-img/comparativosx-logo.webp" alt="Logo Blog Comparativo X" title="Logo Blog Comparativo X"></a>
         </div>                     
         <ul>                     
             <div class="dropdown">
-                <button class="dropbtn"><a href="https://alexandre221178.github.io/comparativosx/">Eletrodomésticos</a></button>
+                <button class="dropbtn"><a href="https://comparativosx.com.br/menu-eletrodomestico.html">Eletrodomésticos</a></button>
                
             </div>              
             <div class="dropdown">
-                <button class="dropbtn"><a href="https://alexandre221178.github.io/comparativosx/">Tecnologia</a></button>
+                <button class="dropbtn"><a href="https://comparativosx.com.br/menu-eletronicos.html">Tecnologia</a></button>
                 
             </div> 
             <div class="dropdown">
-                <button class="dropbtn"><a href="https://alexandre221178.github.io/comparativosx/">Infantil</a></button>
+                <button class="dropbtn"><a href="https://comparativosx.com.br/menu-infantil.html">Infantil</a></button>
                 
             </div> 
              
@@ -21,18 +21,15 @@ document.addEventListener('DOMContentLoaded', () => {
                 <button class="dropbtn">Mais</button>
                 <div class="dropdown-content">
                     
-                    <a href="https://alexandre221178.github.io/comparativosx/documentos/contato-comparativosx.html">Contato</a>
-                    <a href="https://alexandregames.com/Documentos/aviso-legal.html">Isenção de Responsabilidade</a>
-                    <a href="https://alexandregames.com/Documentos/Pol%C3%ADtica%20de%20privacidade.html">Política de Privacidade</a>
-                    <a href="https://alexandre221178.github.io/comparativosx/documentos/sobre-nos-comparativosx.html">Sobre Nós</a>
-                    <a href="https://alexandregames.com/Documentos/Termos%20de%20uso.html">Termos de Uso</a>
+                    <a href="https://comparativosx.com.br/documentos/contato-comparativosx.html">Contato</a>
+                    <a href="https://comparativosx.com.br/Documentos/aviso-legal.html">Isenção de Responsabilidade</a>
+                    <a href="https://comparativosx.com.br/Documentos/Pol%C3%ADtica%20de%20privacidade.html">Política de Privacidade</a>
+                    <a href="https://comparativosx.com.br/documentos/sobre-nos-comparativosx.html">Sobre Nós</a>
+                    <a href="https://comparativosx.com.br/Documentos/Termos%20de%20uso.html">Termos de Uso</a>
                 </div>
             </div>
         </ul>
-        <div class="menu-icon">
-            <img src="https://alexandregames.com/imagens/menu.png" alt="Menu" style="width:48px;height:48px;">
-        </div>
-    `;
+         `;
 
     const navElement = document.createElement('nav');
     navElement.innerHTML = navHTML;
