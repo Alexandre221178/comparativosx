@@ -22,10 +22,10 @@ document.addEventListener('DOMContentLoaded', () => {
                 <div class="dropdown-content">
                     
                     <a href="https://comparativosx.com.br/documentos/contato-comparativosx.html">Contato</a>
-                    <a href="https://comparativosx.com.br/Documentos/aviso-legal.html">Isenção de Responsabilidade</a>
-                    <a href="https://comparativosx.com.br/Documentos/Pol%C3%ADtica%20de%20privacidade.html">Política de Privacidade</a>
+                    <a href="https://comparativosx.com.br/documentos/isencao-de-responsabilidade.html">Isenção de Responsabilidade</a>
+                    <a href="https://comparativosx.com.br/documentos/politica-de-privacidade-comparativox.html">Política de Privacidade</a>
                     <a href="https://comparativosx.com.br/documentos/sobre-nos-comparativosx.html">Sobre Nós</a>
-                    <a href="https://comparativosx.com.br/Documentos/Termos%20de%20uso.html">Termos de Uso</a>
+                    <a href="https://comparativosx.com.br/documentos/termos-de-uso-comparativox.html">Termos de Uso</a>
                 </div>
             </div>
         </ul>
