@@ -29,6 +29,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 </div>
             </div>
         </ul>
+        <div class="menu-icon">
+            <img src="https://comparativosx.com.br/imagens/menu.png" alt="Menu" style="width:48px;height:48px;">
+        </div>
          `;
 
     const navElement = document.createElement('nav');
@@ -46,10 +49,10 @@ document.addEventListener('DOMContentLoaded', () => {
     const iconMenu = document.querySelector('nav .menu-icon img');
 
     menuBar.addEventListener('click', function() {
-        if (iconMenu.getAttribute("src") === 'https://alexandregames.com/imagens/close.webp') {
-            iconMenu.setAttribute("src", "https://alexandregames.com/imagens/menu.png");
+        if (iconMenu.getAttribute("src") === 'https://comparativosx.com.br/imagens/close.webp') {
+            iconMenu.setAttribute("src", "https://comparativosx.com.br/imagens/menu.png");
         } else {
-            iconMenu.setAttribute("src", "https://alexandregames.com/imagens/close.webp");
+            iconMenu.setAttribute("src", "https://comparativosx.com.br/imagens/close.webp");
         }
         
         menu.classList.toggle('active');
