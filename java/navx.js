@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     const navHTML = `
         <div class="logo">
-            <a href="https://comparativosx.com.br"><img src="https://comparativosx.com.br/imagens/comparativox-img/comparativosx-logo.webp" alt="Logo Blog Comparativo X" title="Logo Blog Comparativo X"></a>
+            <a href="https://comparativosx.com.br"><img src="https://comparativosx.com.br/imagens/comparativox-img/comparativosx-logo.webp" alt="Home Comparativos X" title="Home Blog Comparativos X"></a>
         </div>                     
         <ul>                     
             <div class="dropdown">
