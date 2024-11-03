@@ -621,7 +621,7 @@ section p{
     height: 180px;
    
     
-    margin-bottom: 120px;
+    margin-bottom: 80px;
     align-items: center;
     text-align: center;
     float: left;
@@ -1511,7 +1511,7 @@ iframe{
            
     }
     .img-home{  
-        margin-bottom: 110px;       
+        margin-bottom: 30px;       
     }
     .img-visited{
         width: 100%;
@@ -1519,10 +1519,11 @@ iframe{
        
     }
     .img-embed{
+        margin-bottom: 25px;
         width: auto;
-        height: 70%;
-                  
+        height: 70%;           
     }
+    
 
     .emblem {
        
