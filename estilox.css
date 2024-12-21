@@ -205,7 +205,24 @@ nav .menu-icon{
     line-height: 30px;
     text-align: left;
   }
-
+  .content-wrapper2 {
+    max-width: auto; /* Limita a largura do conteúdo */
+    margin: 0 auto;   /* Centraliza no container */
+    margin-top: 5px;
+    margin-bottom: 5px;
+    box-sizing: border-box; /* Garante que o padding não afete o tamanho total */
+    background-color: #f9f9f9; /* Cor de fundo clara para melhorar contraste #f9f9f9 */
+  }
+  .content-wrapper2 {
+    min-height: 135px; /* Altura mínima */
+  }
+  .content-wrapper2 p{
+    font-size: 20px; 
+    margin-left: 30px;
+    margin-top: 5px;
+    line-height: 30px;
+    text-align: left;
+  }
 
 
 
@@ -1370,7 +1387,18 @@ iframe{
         justify-content: center;
     }
 
-    
+    .content-wrapper {
+        min-height: 220px; /* Altura mínima */
+        background-color: #f9f9f9; /* Cor de fundo clara para melhorar contraste #f9f9f9 */
+      }  
+      
+
+      .content-wrapper2 {
+        min-height: 250px; /* Altura mínima */
+        background-color: #f9f9f9; /* Cor de fundo clara para melhorar contraste #f9f9f9 */
+      }  
+     
+
     
 
 
