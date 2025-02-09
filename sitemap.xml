@@ -384,6 +384,12 @@
   <priority>0.80</priority>
 </url>
 
+<url>
+  <loc>https://comparativosx.com.br/eletronicos/7-melhores-mouses-gamer-custo-beneficio.html</loc>
+  <lastmod>2024-12-05T16:53-03:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
 
 <!-- *********** fim eletronicos sitemap comparativos x  ******************* -->
 
@@ -434,6 +440,12 @@
 <url>
   <loc>https://comparativosx.com.br/perfumes/melhores-perfumes-masculinos.html</loc>
   <lastmod>2024-10-16T18:20-03:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+<url>
+  <loc>https://comparativosx.com.br/perfumes/melhores-perfumes-nacionais-femininos.html</loc>
+  <lastmod>2025-01-13T15:48-03:00</lastmod>
   <priority>0.80</priority>
 </url>
 
