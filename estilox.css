@@ -343,9 +343,12 @@ nav .menu-icon{
     position: absolute;
     background-color: black;
     min-width: 170px;
-    
     z-index: 1;
-  }
+    
+    right: 0; /* Força o dropdown a ficar dentro do container */
+    overflow: hidden; /* Evita que o conteúdo extrapole */
+}
+  
   
   .dropdown-content a {
     color: white;
@@ -1373,7 +1376,56 @@ iframe{
         margin-left: 2px;
            
     }
+
+    /* Ajuste para manter o dropdown dentro do container */
+.dropdown {
+    position: relative; /* Mantém o dropdown dentro do elemento pai */
+}
+
+/* Estilos do dropdown */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: black;
+    min-width: 170px;
+    z-index: 1;
+    margin-left: 5px;
     
+    right: 0; /* Mantém dentro do container */
+    overflow: hidden; /* Evita estouro do conteúdo */
+    border-radius: 5px; /* Cantos arredondados */
+}
+
+/* Espaçamento entre os itens do menu dropdown */
+.dropdown-content a {
+    display: block;
+    padding: 10px;  /* Melhora o toque no mobile */
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    text-align: left;
+    margin-bottom: 5px; /* Adiciona espaçamento entre os itens */
+}
+
+/* Remove o espaçamento do último item */
+.dropdown-content a:last-child {
+    margin-bottom: 0;
+}
+
+
+    .dropdown-content {
+        position: static; /* Evita que fique fora do container no mobile */
+        width: 100%; /* Ocupa toda a largura disponível */
+        text-align: center;
+    }
+
+    .dropdown-content a {
+        font-size: 14px; /* Reduz o tamanho da fonte para melhor ajuste */
+        padding: 8px; /* Melhora a usabilidade */
+    }
+
+
+
     
     .text-bx,
     .img-bx{
