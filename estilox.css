@@ -332,7 +332,7 @@ nav .menu-icon{
   .dropdown {
     border-radius: 15px;
     /* margin right abaixo da o espaçamento estre os titulos do menu se apagar fica igual alexandregames.com */
-    margin-right: 90px;
+    margin-right: 5px;
     position: relative;
     display: inline-block;
     border: none;

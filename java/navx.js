@@ -7,15 +7,31 @@ document.addEventListener('DOMContentLoaded', () => {
             <div class="dropdown">
                 <button class="dropbtn"><a href="https://comparativosx.com.br/menu-eletrodomestico.html">Eletrodomésticos</a></button>
                
-            </div>              
-            <div class="dropdown">
-                <button class="dropbtn"><a href="https://comparativosx.com.br/menu-eletronicos.html">Tecnologia</a></button>
-                
-            </div> 
+            </div>      
+            
             <div class="dropdown">
                 <button class="dropbtn"><a href="https://comparativosx.com.br/menu-infantil.html">Infantil</a></button>
                 
             </div> 
+           
+            
+
+            <div class="dropdown">
+                <button class="dropbtn"><a href="https://comparativosx.com.br/menu-tecnologia.html">Tecnologia</a></button>
+                
+            </div> 
+
+            <div class="dropdown">
+                <button class="dropbtn"><a href="https://comparativosx.com.br/menu-perfumes.html">Perfumes</a></button>
+                
+            </div> 
+
+            
+            <div class="dropdown">
+                <button class="dropbtn"><a href="https://comparativosx.com.br/menu-utilidades.html">Utilidades</a></button>
+                
+            </div> 
+            
              
             <div class="dropdown">
                 <button class="dropbtn">Mais</button>
