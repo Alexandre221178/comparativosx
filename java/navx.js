@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', () => {
             
 
             <div class="dropdown">
-                <button class="dropbtn"><a href="https://comparativosx.com.br/menu-tecnologia.html">Tecnologia</a></button>
+                <button class="dropbtn"><a href="https://comparativosx.com.br/menu-eletronicos.html">Tecnologia</a></button>
                 
             </div> 
 
