@@ -14,17 +14,17 @@ document.addEventListener('DOMContentLoaded', () => {
                 
             </div> 
            
-            
+             <div class="dropdown">
+                <button class="dropbtn"><a href="https://comparativosx.com.br/menu-perfumes.html">Perfumes</a></button>
+                
+            </div> 
 
             <div class="dropdown">
                 <button class="dropbtn"><a href="https://comparativosx.com.br/menu-eletronicos.html">Tecnologia</a></button>
                 
             </div> 
 
-            <div class="dropdown">
-                <button class="dropbtn"><a href="https://comparativosx.com.br/menu-perfumes.html">Perfumes</a></button>
-                
-            </div> 
+           
 
             
             <div class="dropdown">
