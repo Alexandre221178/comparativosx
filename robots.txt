@@ -6,4 +6,7 @@ Allow: /
 User-agent: Googlebot
 Allow: /ads.txt
 
+User-agent: AhrefsBot
+Allow: /sitemap.xml
+
 Sitemap: https://compartivosx.com.br/sitemap.xml
