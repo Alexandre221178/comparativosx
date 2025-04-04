@@ -447,7 +447,7 @@ p {
 
 h1 {
     color: #000000;
-    font-size: 30px;
+    font-size: 35px;
     padding: 0,2%;
     text-align: left;
     margin-top: 10px;
@@ -607,8 +607,8 @@ section p{
 .autor ul li{
     
     margin: 30px; 
-    margin-top: 10px;
-    margin-bottom: 5px;
+    margin-top: 1px;
+    margin-bottom: 1px;
     font-size: 16px;
 }
 
@@ -1263,8 +1263,8 @@ iframe{
 }
  /* botoes compartilhar */
 .share-button {
-    margin-top: 1px;
-    margin-bottom: 10px;
+    margin-top: 5px;
+    margin-bottom: 1px;
     margin-left: 30px;
     display: inline-block;
     padding: 10px;
