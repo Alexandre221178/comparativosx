@@ -3,7 +3,11 @@ document.addEventListener('DOMContentLoaded', () => {
         <div class="logo">
             <a href="https://comparativosx.com.br"><img src="https://comparativosx.com.br/imagens/comparativox-img/comparativosx-logo.webp" alt="Home Comparativos X" title="Home Blog Comparativos X"></a>
         </div>                     
-        <ul>                     
+        <ul>      
+        <div class="dropdown">
+                <button class="dropbtn"><a href="https://comparativosx.com.br/celulares/comparar.html">Comparar Celulares</a></button>
+               
+            </div>                 
             <div class="dropdown">
                 <button class="dropbtn"><a href="https://comparativosx.com.br/menu-eletrodomestico.html">Eletrodomésticos</a></button>
                

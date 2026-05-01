@@ -1,0 +1,22 @@
+{
+  "id": "moto-g85",
+  "nome": "Moto G85",
+  "marca": "Motorola",
+  "preco_ref": 1599,
+  "tela": "6.67\" pOLED 120Hz FHD+",
+  "bateria": "5000mAh",
+  "processador": "Snapdragon 6s Gen 3",
+  "camera": "50MP principal + 8MP ultrawide",
+  "link_loja": "https://comparativosx.com.br",
+  "pontos_fortes": [
+    "Tela pOLED de qualidade",
+    "Custo-benefício excelente",
+    "Bateria grande (5000mAh)",
+    "Suporte a cartão microSD"
+  ],
+  "pontos_fracos": [
+    "Processador básico",
+    "Câmera limitada em pouca luz",
+    "Sem NFC"
+  ]
+}

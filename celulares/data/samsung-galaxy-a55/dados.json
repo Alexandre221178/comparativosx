@@ -1,0 +1,22 @@
+{
+  "id": "samsung-galaxy-a55",
+  "nome": "Samsung Galaxy A55",
+  "marca": "Samsung",
+  "preco_ref": 2899,
+  "tela": "6.6\" Super AMOLED 120Hz FHD+",
+  "bateria": "5000mAh",
+  "processador": "Exynos 1480",
+  "camera": "50MP principal + 12MP ultrawide + 5MP macro",
+  "link_loja": "https://comparativosx.com.br",
+  "pontos_fortes": [
+    "Tela AMOLED 120Hz vibrante",
+    "Bateria de longa duração",
+    "Design premium com vidro e metal",
+    "4 anos de atualizações Android"
+  ],
+  "pontos_fracos": [
+    "Processador intermediário",
+    "Carregamento 25W (não ultra-rápido)",
+    "Sem entrada para cartão SD"
+  ]
+}

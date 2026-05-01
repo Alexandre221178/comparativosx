@@ -1,0 +1,22 @@
+{
+  "id": "iphone-15",
+  "nome": "iPhone 15",
+  "marca": "Apple",
+  "preco_ref": 5999,
+  "tela": "6.1\" Super Retina XDR OLED",
+  "bateria": "3349mAh",
+  "processador": "A16 Bionic",
+  "camera": "48MP principal + 12MP ultrawide",
+  "link_loja": "https://comparativosx.com.br",
+  "pontos_fortes": [
+    "Desempenho excepcional",
+    "Câmera de alto nível",
+    "Atualizações longas (5+ anos)",
+    "Construção em titânio"
+  ],
+  "pontos_fracos": [
+    "Preço elevado",
+    "Carregamento lento (20W)",
+    "Sem adaptador na caixa"
+  ]
+}
